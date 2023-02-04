@@ -54,11 +54,6 @@ body, html {
     background-color: white;
   }
 
-  input[type=file]{
-    opacity:0;
-     
-    }
-
     #file{
       
       background-color: #0446aa;
